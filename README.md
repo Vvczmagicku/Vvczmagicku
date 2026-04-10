@@ -1,4 +1,5 @@
-## Hi there 👋
+## <img src="your-image-filename.png" width="100">
+
 
 <!--
 **Vvczmagicku/Vvczmagicku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
