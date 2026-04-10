@@ -1,4 +1,4 @@
-## <img src="your-image-filename.png" width="100">
+## <img src="daffodils.png" width="100">
 
 
 <!--
